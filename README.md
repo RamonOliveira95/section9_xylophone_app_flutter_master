@@ -13,3 +13,7 @@
 - Adicionado Expanded em cada Container para poder expandir o máximo possível;
 - Adicionado o fundo black no Scaffold;
 - Adicionado o CrossAxisAlignment como stretch para expandir na horizontal também.
+
+# AULA 4 - 1.0.3
+- Adicionado função para que chame as cores e o som desejado;
+- Retirado as chamadas individuais no Main e alterado pela função respectiva.
