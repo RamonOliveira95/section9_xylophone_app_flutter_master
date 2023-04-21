@@ -8,3 +8,8 @@
 # AULA 2 - 1.0.1
 - Adicionado alguns Container, cada um com seu respectivo som e cor;
 - Criado uma Function para chamar e informar para ela apenas o número do áudio que tem que tocar.
+
+# AULA 3 - 1.0.2
+- Adicionado Expanded em cada Container para poder expandir o máximo possível;
+- Adicionado o fundo black no Scaffold;
+- Adicionado o CrossAxisAlignment como stretch para expandir na horizontal também.
